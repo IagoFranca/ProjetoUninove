@@ -1,16 +1,15 @@
 # projetouninove
 
-A new Flutter project.
+Turma 42 - Entrega do Projeto Prático de Construção de Sistemas
 
-## Getting Started
+Projeto de desenvolvimento de aplicação que consulte uma API.
 
-This project is a starting point for a Flutter application.
+Curso: SISTEMAS DE INFORMAÇÃO
+Unidade: CAMPUS MEMORIAL AMÉRICA LATINA
+Série: 06 | Turma: A | Turno: NOTURNO
 
-A few resources to get you started if this is your first Flutter project:
+Integrantes do Grupo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Iago França Amaral de Gois - 919204922
+Renata Rodrigues da Costa - 919207455
+Bruna Siqueira de Oliveira - 919206644
